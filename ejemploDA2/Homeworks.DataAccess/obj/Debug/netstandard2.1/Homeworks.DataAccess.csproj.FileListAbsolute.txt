@@ -1,0 +1,12 @@
+C:\ejemploDA2\Homeworks.DataAccess\bin\Debug\netstandard2.1\Homeworks.DataAccess.deps.json
+C:\ejemploDA2\Homeworks.DataAccess\bin\Debug\netstandard2.1\Homeworks.DataAccess.dll
+C:\ejemploDA2\Homeworks.DataAccess\bin\Debug\netstandard2.1\Homeworks.DataAccess.pdb
+C:\ejemploDA2\Homeworks.DataAccess\bin\Debug\netstandard2.1\Homeworks.Domain.dll
+C:\ejemploDA2\Homeworks.DataAccess\bin\Debug\netstandard2.1\Homeworks.Domain.pdb
+C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.csprojAssemblyReference.cache
+C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.AssemblyInfoInputs.cache
+C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.AssemblyInfo.cs
+C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.csproj.CoreCompileInputs.cache
+C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.csproj.CopyComplete
+C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.dll
+C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.pdb

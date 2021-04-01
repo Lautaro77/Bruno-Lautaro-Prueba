@@ -1,0 +1,8 @@
+C:\ejemploDA2\Homeworks.Domain\bin\Debug\netstandard2.1\Homeworks.Domain.deps.json
+C:\ejemploDA2\Homeworks.Domain\bin\Debug\netstandard2.1\Homeworks.Domain.dll
+C:\ejemploDA2\Homeworks.Domain\bin\Debug\netstandard2.1\Homeworks.Domain.pdb
+C:\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.AssemblyInfoInputs.cache
+C:\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.AssemblyInfo.cs
+C:\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.csproj.CoreCompileInputs.cache
+C:\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.dll
+C:\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.pdb

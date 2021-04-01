@@ -1,0 +1,14 @@
+C:\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.BusinessLogic.deps.json
+C:\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.BusinessLogic.dll
+C:\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.BusinessLogic.pdb
+C:\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.DataAccess.dll
+C:\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.Domain.dll
+C:\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.DataAccess.pdb
+C:\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.Domain.pdb
+C:\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.csprojAssemblyReference.cache
+C:\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.AssemblyInfoInputs.cache
+C:\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.AssemblyInfo.cs
+C:\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.csproj.CopyComplete
+C:\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.dll
+C:\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.pdb

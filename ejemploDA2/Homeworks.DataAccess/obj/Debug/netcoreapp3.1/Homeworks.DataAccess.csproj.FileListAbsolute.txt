@@ -1,0 +1,8 @@
+C:\ejemploDA2\Homeworks.DataAccess\bin\Debug\netcoreapp3.1\Homeworks.DataAccess.deps.json
+C:\ejemploDA2\Homeworks.DataAccess\bin\Debug\netcoreapp3.1\Homeworks.DataAccess.dll
+C:\ejemploDA2\Homeworks.DataAccess\bin\Debug\netcoreapp3.1\Homeworks.Domain.dll
+C:\ejemploDA2\Homeworks.DataAccess\bin\Debug\netcoreapp3.1\Homeworks.Domain.pdb
+C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netcoreapp3.1\Homeworks.DataAccess.csprojAssemblyReference.cache
+C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netcoreapp3.1\Homeworks.DataAccess.AssemblyInfoInputs.cache
+C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netcoreapp3.1\Homeworks.DataAccess.AssemblyInfo.cs
+C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netcoreapp3.1\Homeworks.DataAccess.csproj.CopyComplete
