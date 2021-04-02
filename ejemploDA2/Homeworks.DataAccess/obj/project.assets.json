@@ -7253,25 +7253,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bruno.olivera\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\lautaro.alonso\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj",
+      "projectUniqueName": "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj",
       "projectName": "Homeworks.DataAccess",
-      "projectPath": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\bruno.olivera\\.nuget\\packages\\",
-      "outputPath": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.DataAccess\\obj\\",
+      "projectPath": "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\lautaro.alonso\\.nuget\\packages\\",
+      "outputPath": "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bruno.olivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lautaro.alonso\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7286,8 +7284,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj": {
-              "projectPath": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj"
+            "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj": {
+              "projectPath": "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj"
             }
           }
         }

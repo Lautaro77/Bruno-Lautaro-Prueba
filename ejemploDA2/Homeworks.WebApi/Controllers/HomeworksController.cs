@@ -46,12 +46,15 @@ namespace Homeworks.WebApi.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post([FromBody] Homework homework)
+        public IActionResult Post([FromBody] HomeworkDTO homeworkDTO)
         {
             try
             {
+                Homework homework = homeworkDTO.ToEntity();
                 Homework createdHomework = logic.Create(homework);
-                return CreatedAtRoute("Get", new { id = homework.Id }, createdHomework);
+
+                HomeworkDTO homeworkToReturn = new HomeworkDTO(createdHomework);
+                return CreatedAtRoute("Get", new { id = homeworkToReturn.Id }, homeworkToReturn);
             }
             catch (ArgumentException e)
             {

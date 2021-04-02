@@ -5846,25 +5846,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bruno.olivera\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\lautaro.alonso\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.WebApi\\Homeworks.WebApi.csproj",
+      "projectUniqueName": "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.WebApi\\Homeworks.WebApi.csproj",
       "projectName": "Homeworks.WebApi",
-      "projectPath": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.WebApi\\Homeworks.WebApi.csproj",
-      "packagesPath": "C:\\Users\\bruno.olivera\\.nuget\\packages\\",
-      "outputPath": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.WebApi\\obj\\",
+      "projectPath": "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.WebApi\\Homeworks.WebApi.csproj",
+      "packagesPath": "C:\\Users\\lautaro.alonso\\.nuget\\packages\\",
+      "outputPath": "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bruno.olivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lautaro.alonso\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5879,14 +5877,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.BusinessLogic\\Homeworks.BusinessLogic.csproj": {
-              "projectPath": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.BusinessLogic\\Homeworks.BusinessLogic.csproj"
+            "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.BusinessLogic\\Homeworks.BusinessLogic.csproj": {
+              "projectPath": "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.BusinessLogic\\Homeworks.BusinessLogic.csproj"
             },
-            "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj": {
-              "projectPath": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj"
+            "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj": {
+              "projectPath": "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.DataAccess\\Homeworks.DataAccess.csproj"
             },
-            "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj": {
-              "projectPath": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj"
+            "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj": {
+              "projectPath": "C:\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj"
             }
           }
         }

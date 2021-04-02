@@ -38,7 +38,7 @@ namespace Homeworks.DataAccess
 
         private static DbContextOptions GetSqlConfig(DbContextOptionsBuilder builder)
         {
-            builder.UseSqlServer(@"Server=DESKTOP-QV6PL7O\SQLEXPRESS;Database=HomeworksDB;
+            builder.UseSqlServer(@"Server=UY-LALONSO-N\SQLEXPRESS;Database=HomeworksDB;
                 Trusted_Connection=True;MultipleActiveResultSets=True;");
             return builder.Options;
         }
