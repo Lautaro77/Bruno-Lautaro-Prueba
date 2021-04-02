@@ -12,3 +12,17 @@ C:\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.Busines
 C:\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.csproj.CopyComplete
 C:\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.dll
 C:\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.pdb
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.csprojAssemblyReference.cache
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.AssemblyInfoInputs.cache
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.AssemblyInfo.cs
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.BusinessLogic.deps.json
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.BusinessLogic.dll
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.BusinessLogic.pdb
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.DataAccess.dll
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.Domain.dll
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.DataAccess.pdb
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\bin\Debug\netstandard2.1\Homeworks.Domain.pdb
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.csproj.CopyComplete
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.dll
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.BusinessLogic\obj\Debug\netstandard2.1\Homeworks.BusinessLogic.pdb

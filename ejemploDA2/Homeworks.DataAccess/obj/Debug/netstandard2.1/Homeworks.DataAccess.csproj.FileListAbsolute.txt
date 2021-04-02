@@ -10,3 +10,15 @@ C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess
 C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.csproj.CopyComplete
 C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.dll
 C:\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.pdb
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.DataAccess\bin\Debug\netstandard2.1\Homeworks.DataAccess.deps.json
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.DataAccess\bin\Debug\netstandard2.1\Homeworks.DataAccess.dll
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.DataAccess\bin\Debug\netstandard2.1\Homeworks.DataAccess.pdb
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.DataAccess\bin\Debug\netstandard2.1\Homeworks.Domain.dll
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.DataAccess\bin\Debug\netstandard2.1\Homeworks.Domain.pdb
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.csprojAssemblyReference.cache
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.AssemblyInfoInputs.cache
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.AssemblyInfo.cs
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.csproj.CoreCompileInputs.cache
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.csproj.CopyComplete
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.dll
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.DataAccess\obj\Debug\netstandard2.1\Homeworks.DataAccess.pdb

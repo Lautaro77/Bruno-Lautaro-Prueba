@@ -6,3 +6,12 @@ C:\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.Assembl
 C:\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.csproj.CoreCompileInputs.cache
 C:\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.dll
 C:\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.pdb
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.Domain\bin\Debug\netstandard2.1\Homeworks.Domain.deps.json
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.Domain\bin\Debug\netstandard2.1\Homeworks.Domain.dll
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.Domain\bin\Debug\netstandard2.1\Homeworks.Domain.pdb
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.csprojAssemblyReference.cache
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.AssemblyInfoInputs.cache
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.AssemblyInfo.cs
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.csproj.CoreCompileInputs.cache
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.dll
+C:\ejemplo_git_da2\Bruno-Lautaro-Prueba\ejemploDA2\Homeworks.Domain\obj\Debug\netstandard2.1\Homeworks.Domain.pdb

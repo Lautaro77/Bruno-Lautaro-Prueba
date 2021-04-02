@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj": {}
+    "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj": {}
   },
   "projects": {
-    "C:\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj": {
+    "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj",
+        "projectUniqueName": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj",
         "projectName": "Homeworks.Domain",
-        "projectPath": "C:\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj",
-        "packagesPath": "C:\\Users\\lautaro.alonso\\.nuget\\packages\\",
-        "outputPath": "C:\\ejemploDA2\\Homeworks.Domain\\obj\\",
+        "projectPath": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\Homeworks.Domain.csproj",
+        "packagesPath": "C:\\Users\\bruno.olivera\\.nuget\\packages\\",
+        "outputPath": "C:\\ejemplo_git_da2\\Bruno-Lautaro-Prueba\\ejemploDA2\\Homeworks.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lautaro.alonso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.olivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
